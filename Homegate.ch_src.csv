@@ -1,0 +1,406 @@
+price,size,rooms,address
+"4,150.–",104m2,2.5rm,"Rue de l'Athénée 38, 1206 Genf"
+"1,250.–",26m2,1rm,"Rue de la Dôle 15, 1203 Genève"
+"4,000.–",90m2,2.5rm,"Rue de l'Athénée 36, 1206 Genève"
+"3,100.–",82m2,4rm,"Rue Liotard, 1202 Geneva"
+"1,580.–",,2.5rm,"Rue de Lyon, 1201 Genève"
+"1,690.–",,3rm,"Bd de Saint-Georges, 1201 Genève"
+"2,280.–",56m2,3rm,"Rue de la Servette 31, 1201 Genève"
+"2,310.–",55m2,3rm,"Rue de la Servette 31, 1201 Genève"
+"4,500.–",120m2,6rm,"Quai du Seujet, 1201 Genève"
+"2,400.–",70m2,4rm,"Rue de Vermont, 1202 Genève"
+"2,590.–",77m2,3.5rm,"Rue des Charmilles 17, 1203 Genève"
+"3,500.–",80m2,3rm,"Pl. de la Métropole, 1204 Genève"
+"2,091.–",55m2,3rm,"Av. de Sainte-Clotilde 1, 1205 Genève"
+"3,490.–",90m2,3rm,"Bd des Philosophes 24, 1205 Genève"
+"6,035.–",180m2,6rm,1206 Genève
+"2,400.–",50m2,3rm,"Rue Zurlinden, 1207 Genève"
+"1,320.–",31m2,2rm,"Rte de Malagnou 27, 1208 Genève"
+"2,990.–",80m2,4rm,"Avenue Théodore-Weber 36, 1208 Genève"
+"4,700.–",150m2,7rm,"Chem. Rieu 4, 1208 Genève"
+"3,250.–",72m2,3rm,"Chem. des Crêts, 1209 Genève"
+"2,450.–",65m2,3rm,"Avenue Giuseppe Motta 16, 1202 Genève"
+"2,100.–",81m2,4.5rm,"Avenue d' Aïre 46, 1203 Genève"
+"1,520.–",23m2,1.5rm,"Rue de la Coulouvrenière 40, 1204 Genève"
+"2,490.–",72m2,4rm,"Rue des Pâquis 53, 1201 GENEVE"
+"6,200.–",192m2,6rm,"Rue de Saint-Jean 90, 1201 GENEVE"
+"1,720.–",54m2,3rm,"Rue de la Prairie 19, 1202 GENEVE"
+"1,760.–",46m2,2.5rm,"Rue Antoine-Carteret 38, 1202 GENEVE"
+"2,800.–",90m2,5rm,"RUE DE MONTBRILLANT 83, 1202 GENEVE"
+"2,990.–",101m2,4rm,"Rue de Lausanne 109, 1202 GENEVE"
+"3,100.–",85m2,2.5rm,"Place du Bourg-de-Four 36, 1204 GENEVE"
+"1,655.–",75m2,4rm,"Avenue Sainte-Clotilde 17, 1205 GENEVE"
+"1,720.–",77m2,4rm,"Avenue Sainte-Clotilde 17, 1205 GENEVE"
+"1,910.–",22m2,1rm,"Rue des Vollandes 75, 1207 GENEVE"
+"1,455.–",42m2,2rm,"Route de Chêne 70, 1208 GENEVE"
+"2,165.–",,2.5rm,"Rue du Mont-Blanc, 1201 Geneva"
+"1,255.–",22m2,1.5rm,"Rue Lamartine 13, 1203 Geneva"
+"3,800.–",109m2,5.5rm,"Rue Marignac., 1206 Geneva"
+"4,250.–",120m2,4rm,1206 Geneva
+"2,500.–",76m2,3.5rm,"Route de Chene, 1207 Geneva"
+"4,000.–",172m2,6rm,"Chem. du Petit-Saconnex, 1209 Geneva"
+"3,500.–",,4.5rm,1200 Genève
+"3,660.–",74m2,4rm,1200 Genève
+"3,980.–",106m2,4.5rm,1200 Genève
+"4,950.–",140m2,5.5rm,1200 Genève
+"1,200.–",16m2,1rm,"Place Cornavin 14, 1201 Genève"
+"1,263.–",23m2,1rm,"Rue de Lyon 10, 1201 Genève"
+"1,263.–",23m2,1rm,"Rue de Lyon 10, 1201 Genève"
+"1,340.–",23m2,1rm,"Rue de Lyon 10, 1201 Genève"
+"1,340.–",23m2,1rm,"Rue de Lyon 10, 1201 Genève"
+"1,400.–",,2.5rm,"Rue de la Navigation 21, 1201 Genève"
+"1,440.–",21m2,1rm,"Rue Pradier, 1201 Genève"
+"1,590.–",,2rm,"Rue de Monthoux 40, 1201 Genève"
+"1,750.–",42m2,3rm,"Rue De-Monthoux 27, 1201 Genève"
+"1,900.–",52m2,3rm,"Rue du Jura 12, 1201 Genève"
+"1,950.–",,3rm,1201 Genève
+"2,070.–",55m2,3rm,"Rue Dr-Alfred-Vincent 21, 1201 Genève"
+"2,110.–",,3rm,1201 Genève
+"2,160.–",59m2,4rm,"Rue Mme de Staël 9, 1201 Genève"
+"2,170.–",60m2,3rm,"Rue de Zürich 47, 1201 Genève"
+"2,300.–",80m2,4rm,"2, rue Léon- Nicole, 1201 Genève"
+"2,450.–",73m2,3rm,"42, rue Philippe- Plantamour, 1201 Genève"
+"2,460.–",75m2,4.5rm,"Rue Voltaire, 1201 Genève"
+"2,680.–",,2.5rm,"Rue Saint Joseph 42, 1201 Genève"
+"2,700.–",,3rm,"Rue Philippe-Plantamour 43, 1201 Genève"
+"2,990.–",88m2,4rm,"Rue Jean-Jaquet 18, 1201 Genève"
+"3,400.–",86m2,4rm,"Rue Madame de stael, 1201 Genève"
+"3,500.–",70m2,4.5rm,"7, rue de la Cloche, 1201 Genève"
+"3,745.–",108m2,5.5rm,"Rue Bonivard 6, 1201 Genève"
+"3,750.–",73m2,3rm,"42, rue Philippe- Plantamour, 1201 Genève"
+"3,800.–",74m2,4rm,1201 Genève
+"3,810.–",100m2,5rm,"Rue Rousseau 1, 1201 Genève"
+"4,250.–",106m2,4.5rm,"Rue des Alpes, 1201 Genève"
+"5,560.–",149m2,6rm,"Rue de Saint-Jean 74, 1201 Genève"
+"6,700.–",123m2,4.5rm,"Quai Wilson 41, 1201 Genève"
+"7,495.–",240m2,7rm,"Quai du Seujet 14, 1201 Genève"
+,5m2,1rm,1201 Genève
+970.–,35m2,1rm,"Rue Rothschild 58, 1202 Genève"
+"1,390.–",30m2,1.5rm,"Rue Jean-Charles Amat 15, 1202 Genève"
+"1,500.–",,1rm,"Petit-Saconnex 28, 1202 Genève"
+"1,730.–",26m2,1rm,"Rue de la Servette 78, 1202 Genève"
+"1,900.–",,2rm,"Rue Rothschild 19, 1202 Genève"
+"1,914.–",59m2,3rm,"Rue Antoine-Carteret 5, 1202 Genève"
+"1,950.–",,3rm,"Rue Hoffmann 9, 1202 Genève"
+"1,950.–",60m2,,1202 Genève
+"1,985.–",,3rm,"Rue Hoffmann 9, 1202 Genève"
+"2,000.–",,3rm,"Rue Hoffmann 9, 1202 Genève"
+"2,044.–",59m2,2.5rm,"Rue du Valais 2, 1202 Genève"
+"2,140.–",66m2,3rm,"La Voie-Creuse 5A (D2), 1202 Genève"
+"2,220.–",58m2,2.5rm,"Rue du Grand-Pré 76, 1202 Genève"
+"2,280.–",62m2,3rm,"Rue de la Servette 44, 1202 Genève"
+"2,292.–",71m2,3rm,"Rue de la Servette 46, 1202 Genève"
+"2,370.–",67m2,3.5rm,"Rue du Grand-Pré 53, 1202 Genève"
+"2,400.–",91m2,4rm,"Rue des Buis 1-3, 1202 Genève"
+"2,445.–",,3rm,"Poterie 6, 1202 Genève"
+"2,450.–",64m2,3.5rm,"Rue de la Servette, 1202 Genève"
+"2,700.–",73m2,3rm,"Avenue Giuseppe Motta 16, 1202 Genève"
+"2,770.–",71m2,4rm,"3 rue de la Prairie, 1202 Genève"
+"2,850.–",76m2,4rm,"Avenue Giuseppe Motta 16, 1202 Genève"
+"3,160.–",,4rm,"Poterie 6, 1202 Genève"
+"3,370.–",,4rm,"rue de lausanne 91, 1202 Genève"
+"3,490.–",96m2,4.5rm,1202 Genève
+"3,600.–",83m2,4rm,"Rue Richard-Wagner 3, 1202 Genève"
+"4,421.–",107m2,5rm,"Parc du Château-Banquet, 1202 Genève"
+"4,500.–",,4rm,1202 Genève
+"5,130.–",115m2,4rm,"Avenue De-Budé, 1202 Genève"
+"5,600.–",138m2,5rm,1202 Genève
+"6,130.–",135m2,7rm,"Avenue de Sécheron 9, 1202 Genève"
+"8,450.–",231m2,7rm,"Av. De-Budé 33, 1202 Genève"
+"8,900.–",231m2,7.5rm,"sur demande, 1202 Genève"
+491.–,13m2,1rm,"Avenue du Devin-du-Village 10, 1203 Genève"
+"1,080.–",28m2,2rm,"Chemin William-Lescaze 3, 1203 Genève"
+"1,180.–",16m2,1rm,"Chemin Surinam, 1203 Genève"
+"1,201.–",30m2,2rm,"av. Ernest-Pictet 22, 1203 Genève"
+"1,201.–",30m2,2rm,"Av. Ernest-Pictet 22, 1203 Genève"
+"1,210.–",30m2,2rm,"av. Ernest-Pictet 22, 1203 Genève"
+"1,210.–",30m2,2rm,"Av. Ernest-Pictet 22, 1203 Genève"
+"1,500.–",40m2,2rm,"Rue de Lyon, 1203 Genève"
+"1,500.–",,2rm,"Rue de Lyon 38, 1203 Genève"
+"1,510.–",45m2,2.5rm,"Av. De-Luserna 18, 1203 Genève"
+"1,590.–",46m2,2rm,"Rue Charles-Giron, 1203 Genève"
+"1,670.–",43m2,3rm,"Rue Lamartine 15B, 1203 Genève"
+"1,725.–",45m2,3rm,"Rue des Confessions 15, 1203 Genève"
+"1,725.–",45m2,3rm,"Rue des Confessions 15, 1203 Genève"
+"1,735.–",45m2,3rm,"Rue des Confessions 15, 1203 Genève"
+"1,735.–",45m2,3rm,"Rue des Confessions 15, 1203 Genève"
+"1,767.–",50m2,2rm,"Rue du Beulet 6, 1203 Genève"
+"1,950.–",,2.5rm,"rue Lamartine 32, 1203 Genève"
+"1,955.–",55m2,3.5rm,"Rue de Lyon 65, 1203 Genève"
+"1,995.–",36m2,2rm,"Rue du Belvédère 8, 1203 Genève"
+"2,120.–",57m2,3rm,"Rue Joseph-Pasquier 17, 1203 Genève"
+"2,190.–",55m2,2rm,1203 Genève
+"2,240.–",49m2,3rm,"Av. Wendt 3, 1203 Genève"
+"2,240.–",49m2,3rm,"Avenue Wendt 3, 1203 Genève"
+"2,330.–",72m2,4.5rm,"Rue Lamartine 23, 1203 Genève"
+"2,330.–",72m2,4.5rm,"Rue Lamartine 23, 1203 Genève"
+"2,400.–",73m2,5rm,"Rue de la Dôle 6, 1203 Genève"
+"2,400.–",,4.5rm,"Route de Meyrin 3, 1203 Genève"
+"2,440.–",67m2,4rm,"Rue des Confessions 9, 1203 Genève"
+"2,440.–",51m2,3rm,"Avenue Wendt 3, 1203 Genève"
+"2,440.–",51m2,3rm,"Av. Wendt 3, 1203 Genève"
+"2,490.–",85m2,4.5rm,"Av. Wendt 58, 1203 Genève"
+"2,516.–",48m2,2rm,"Avenue des Tilleuls 34, 1203 Genève"
+"2,650.–",82m2,5.5rm,"Avenue Wendt 56, 1203 Genève"
+"2,650.–",81m2,5.5rm,"Avenue Wendt 60, 1203 Genève"
+"2,670.–",90m2,5rm,"Rue Liotard 65, 1203 Genève"
+"2,720.–",,5.5rm,"Avenue Wendt 67, 1203 Genève"
+"3,000.–",82m2,4rm,"sur demande, 1203 Genève"
+"3,100.–",,5rm,"Avenue Ernest Pictet 14, 1203 Genève"
+"3,100.–",,5rm,"Avenue Ernest Pictet 14, 1203 Genève"
+"3,100.–",85m2,4rm,"Rue de Saint-Jean 58, 1203 Genève"
+"3,115.–",115m2,4rm,"Avenue Wendt 28, 1203 Genève"
+"3,150.–",90m2,4rm,"Rue de la Dôle, 1203 Genève"
+"3,180.–",103m2,4rm,"-, 1203 Genève"
+"3,180.–",103m2,4rm,"-, 1203 Genève"
+"3,220.–",92m2,5rm,"Rue Liotard 79, 1203 Genève"
+"3,600.–",103m2,4.5rm,"sur demande, 1203 Genève"
+"4,060.–",130m2,4rm,1203 Genève
+"4,170.–",132m2,4rm,"Chemin Surinam 4, 1203 Genève"
+"4,660.–",140m2,5rm,1203 Genève
+,50m2,3rm,"avenue de Luserna 40, 1203 Genève"
+,65m2,3rm,"avenue de Luserna 40, 1203 Genève"
+,31m2,2rm,"avenue de Luserna 40, 1203 Genève"
+920.–,13m2,1rm,"Pl. du Grand-Mézel, 1204 Genève"
+920.–,12m2,1rm,"Pl. du Grand-Mézel, 1204 Genève"
+950.–,15m2,1rm,"Pl. du Grand-Mézel, 1204 Genève"
+"1,360.–",,1rm,"Grand-Rue 19, 1204 Genève"
+"1,700.–",35m2,1.5rm,"Rue de la Boulangerie 6, 1204 Genève"
+"1,950.–",51m2,2rm,"Rue Etienne-Dumont 3, 1204 Genève"
+"1,950.–",45m2,1.5rm,"Rue Etienne-Dumont 3, 1204 Genève"
+"1,950.–",30m2,1.5rm,"Rue Etienne-Dumont 18, 1204 Genève"
+"2,050.–",,2rm,"Rue de la Cité 27, 1204 Genève"
+"2,080.–",43m2,3rm,"Place du Cirque 2, 1204 Genève"
+"2,150.–",39m2,1rm,"Pl. du Grand-Mézel, 1204 Genève"
+"2,300.–",45m2,2rm,"Rue de la Cité 29, 1204 Genève"
+"2,300.–",30m2,1.5rm,"Rue Etienne-Dumont 18, 1204 Genève"
+"2,450.–",,3.5rm,"Rue de la cité 27, 1204 Genève"
+"2,450.–",,2.5rm,"Rue de la Cité 27, 1204 Genève"
+"2,460.–",53m2,2.5rm,"Rue de la Cité, 1204 Genève"
+"2,600.–",75m2,3rm,1204 Genève
+"2,695.–",70m2,3rm,1204 Genève
+"2,800.–",75m2,2.5rm,1204 Genève
+"2,850.–",67m2,3rm,1204 Genève
+"2,990.–",74m2,4rm,"Rue de la Croix-d'Or 25, 1204 Genève"
+"3,100.–",77m2,3.5rm,"Rue de la Cité 3, 1204 Genève"
+"3,100.–",77m2,3.5rm,"Rue de la Cité 3, 1204 Genève"
+"3,615.–",72m2,3rm,"Boulevard James-Fazy 6, 1204 Genève"
+"3,660.–",90m2,5rm,"Place du Cirque 4, 1204 Genève"
+"3,700.–",70m2,3rm,"Rue de la Rôtisserie 17, 1204 Genève"
+"3,800.–",75m2,4rm,1204 Genève
+"4,580.–",124m2,5rm,"Rue de Rive 15, 1204 Genève"
+"4,930.–",80m2,3rm,"Rue du Rhône 57, 1204 Genève"
+"5,000.–",,6.5rm,"Rue des Granges 1, 1204 Genève"
+"5,240.–",114m2,4rm,"Rue Bovy-Lysberg 3+5, 1204 Genève"
+"5,410.–",90m2,4rm,"Rue du Rhône 57, 1204 Genève"
+"5,700.–",190m2,5rm,1204 Genève
+"6,000.–",190m2,6.5rm,1204 Genève
+"7,500.–",176m2,6rm,1204 Genève
+"8,500.–",142m2,5.5rm,"29, rue du Rhône, 1204 Genève"
+"8,700.–",142m2,5.5rm,"Rue du Rhône, 1204 Genève"
+"10,500.–",,8rm,"Rue Beauregard, 1204 Genève"
+"1,305.–",45m2,2.5rm,"Quai Charles-Page 41, 1205 Genève"
+"1,350.–",40m2,3rm,"Rue des Pitons 6, 1205 Genève"
+"1,350.–",35m2,2rm,"Rue Dancet 17, 1205 Genève"
+"1,350.–",,2rm,"Rue Dancet 17, 1205 Genève"
+"1,350.–",35m2,2rm,"Rue Dancet, 1205 Genève"
+"1,410.–",35m2,2rm,"Rue Dancet, 1205 Genève"
+"1,470.–",,2rm,"Rue Emile-Nicolet 7, 1205 Genève"
+"1,490.–",35m2,2rm,"Avenue de la Jonction, 1205 Genève"
+"1,510.–",48m2,2.5rm,"Rue Henri-Christiné 5, 1205 Genève"
+"1,520.–",34m2,2rm,"Rue des Pitons 11, 1205 Genève"
+"1,550.–",30m2,2rm,"Quai Charles-Page 39, 1205 Genève"
+"1,660.–",,2rm,"Rue Prévost-Martin 27, 1205 Genève"
+"1,900.–",45m2,3rm,"Rue Jean-Violette, 1205 Genève"
+"1,945.–",65m2,4rm,"Rue Pictet-de-Bock 9, 1205 Genève"
+"2,060.–",64m2,4rm,"Rue des Deux-Ponts 18, 1205 Genève"
+"2,091.–",55m2,3rm,"Avenue de Sainte-Clotilde 1, 1205 Genève"
+"2,120.–",55m2,3rm,"Avenue de Sainte-Clotilde 1, 1205 Genève"
+"2,150.–",,3rm,"Bd Carl-Vogt, 1205 Genève"
+"2,150.–",50m2,3rm,"Rue David-Dufour 4, 1205 Genève"
+"2,360.–",119m2,5rm,"Rue Guillaume-de-Marcossay 9, 1205 Genève"
+"2,380.–",65m2,3rm,"Rue Caroline 8, 1205 Genève"
+"2,430.–",67m2,3.5rm,"Rue des Vieux-Grenadiers, 1205 Genève"
+"2,490.–",,4rm,"Rue des Pavillons 4, 1205 Genève"
+"2,700.–",72m2,4rm,"Boulevard des Philosophes 2, 1205 Genève"
+"2,700.–",94m2,4rm,1205 Genève
+"2,700.–",83m2,4rm,"Rue Dancet 35, 1205 Genève"
+"2,770.–",85m2,4rm,"Rue de l'Ecole-de-Médecine 6, 1205 Genève"
+"2,854.–",90m2,5rm,"Rue du Pré-Jérôme, 1205 Genève"
+"2,880.–",80m2,4rm,1205 Genève
+"2,900.–",,5rm,"rue du conseil-général no 12, 1205 Genève"
+"2,900.–",99m2,4.5rm,"Av. du Mail 10, 1205 Genève"
+"2,950.–",,4rm,"Quai des Arénières 10, 1205 Genève"
+"2,970.–",93m2,4rm,1205 Genève
+"3,000.–",1m2,4rm,"9, rue des Savoises, 1205 Genève"
+"3,000.–",70m2,3rm,"Plainpalais, 1205 Genève"
+"3,050.–",,4rm,1205 Genève
+"3,150.–",78m2,3.5rm,"Rue du Conseil-Général, 1205 Genève"
+"3,480.–",,5rm,"Rue Patru 6, 1205 Genève"
+"3,490.–",,4rm,1205 Genève
+"3,500.–",98m2,4.5rm,"Rue Gourgas, 1205 Genève"
+"3,500.–",,4rm,"Philosophes 23, 1205 Genève"
+"3,790.–",,,"Rue Robert-Céard 5, 1205 Genève"
+"3,850.–",96m2,4.5rm,"Rue des Bains 29, 1205 Genève"
+"4,000.–",164m2,5rm,"6, rue Saint-Léger, 1205 Genève"
+"4,700.–",128m2,5rm,"Boulevard Helvétique 6, 1205 Genève"
+"8,550.–",260m2,10rm,"Place Edouard-Claparède 2, 1205 Genève"
+,5m2,1rm,1205 Genève
+"1,450.–",35m2,2rm,1206 Genève
+"1,600.–",32m2,1rm,"Rue de l' Athénée 36, 1206 Genève"
+"1,600.–",,1rm,"Rue de l' Athénée 38, 1206 Genève"
+"1,680.–",,1.5rm,"Eugène-Pittard, 1206 Genève"
+"1,800.–",,3rm,1206 Genève
+"1,800.–",,2rm,"Avenue Eugène-Pittard 1A, 1206 Genève"
+"1,900.–",,2rm,"Av de Miremont 27B, 1206 Genève"
+"1,950.–",25m2,1.5rm,1206 Genève
+"2,200.–",48m2,2.5rm,"Chemin Crêts-de-Champel 4, 1206 Genève"
+"2,300.–",58m2,2rm,1206 Genève
+"2,400.–",54m2,3rm,"Av. Dumas 41, 1206 Genève"
+"2,400.–",32m2,2.5rm,"Rue de l'Athénée, 1206 Genève"
+"2,600.–",57m2,3rm,"Avenue Calas 16, 1206 Genève"
+"2,650.–",79m2,3rm,"Avenue Calas 5, 1206 Genève"
+"2,690.–",75m2,3rm,1206 Genève
+"2,810.–",74m2,4rm,"Avenue Calas 14, 1206 Genève"
+"2,850.–",60m2,,"Robert-de-Traz 14, 1206 Genève"
+"2,880.–",98m2,4rm,"Chemin de Normandie 8, 1206 Genève"
+"2,950.–",40m2,1rm,1206 Genève
+"3,000.–",90m2,5rm,"Avenue de Champel 27, 1206 Genève"
+"3,000.–",92m2,4rm,1206 Genève
+"3,000.–",,1.5rm,"Champel, 1206 Genève"
+"3,140.–",95m2,5rm,"Chemin des Crêts de Champel 24, 1206 Genève"
+"3,168.–",92m2,4rm,"Avenue de Champel 22, 1206 Genève"
+"3,200.–",87m2,3.5rm,"Champel, 1206 Genève"
+"3,235.–",86m2,4rm,"Av. Calas 3, 1206 Genève"
+"3,500.–",87m2,3.5rm,"sur demande, 1206 Genève"
+"3,850.–",76m2,4rm,1206 Genève
+"4,500.–",130m2,5rm,1206 Genève
+"4,610.–",125m2,6.5rm,"Av. Dumas 2bis, 1206 Genève"
+"4,700.–",,5rm,"Avenue Eugène-Pittard 56, 1206 Genève"
+"5,000.–",130m2,4rm,1206 Genève
+"5,180.–",124m2,4rm,1206 Genève
+"5,500.–",177m2,5rm,1206 Genève
+"5,850.–",191m2,6rm,1206 Genève
+"5,950.–",170m2,6.5rm,"11, avenue Eugène- Pittard, 1206 Genève"
+"6,000.–",175m2,6rm,1206 Genève
+"6,138.–",179m2,7.5rm,"Rte de Florissant 3, 1206 Genève"
+"6,280.–",180m2,5rm,"Avenue Eugène Pittard, 1206 Genève"
+"6,500.–",220m2,7rm,1206 Genève
+"6,500.–",170m2,6rm,1206 Genève
+"6,770.–",172m2,6rm,"Chemin du Petit-Saconnex 28A, 1206 Genève"
+"6,895.–",213m2,8rm,"Bvd des Tranchées 44, 1206 Genève"
+"7,000.–",171m2,6rm,1206 Genève
+"7,040.–",168m2,6rm,"Route de Florissant, 1206 Genève"
+"7,500.–",140m2,5rm,"Av. de Champel 65, 1206 Genève"
+"7,700.–",176m2,6rm,"Doctoresse-Champendal 4, 1206 Genève"
+"7,700.–",175m2,6rm,1206 Genève
+"8,500.–",250m2,7rm,1206 Genève
+"8,500.–",172m2,7rm,"Rue, 1206 Genève"
+"8,620.–",,8rm,"Villette, 1206 Genève"
+"8,900.–",205m2,7rm,1206 Genève
+"8,900.–",186m2,6rm,"Rue Robert de traz 14, 1206 Genève"
+"9,250.–",186m2,6rm,"Robert-de-Traz 14, 1206 Genève"
+"9,500.–",180m2,5rm,1206 Genève
+"11,600.–",250m2,7rm,1206 Genève
+"12,900.–",320m2,10rm,1206 Genève
+"13,500.–",300m2,8rm,1206 Genève
+"15,000.–",220m2,7.5rm,1206 Genève
+"18,000.–",300m2,10rm,"Champel, 1206 Genève"
+"20,000.–",350m2,,1206 Genève
+"25,000.–",360m2,9rm,"Florissant, 1206 Genève"
+,326m2,10rm,1206 Genève
+,,9rm,1206 Genève
+,240m2,8.5rm,"Florissant, 1206 Genève"
+,225m2,8rm,"24 Avenue Peschier, 1206 Genève"
+,180m2,7rm,"Florissant, 1206 Genève"
+,185m2,6rm,1206 Genève
+,119m2,5rm,"Av. Calas 3B, 1206 Genève"
+,69m2,2.5rm,"Av. Calas 3B, 1206 Genève"
+"1,385.–",30m2,,"Rue du Lac 4 - 6, 1207 Genève"
+"1,462.–",32m2,2rm,"Rue de Savoie 13, 1207 Genève"
+"1,585.–",26m2,1rm,"Rue du Lac 4 - 6, 1207 Genève"
+"1,680.–",,2rm,"Rue de Savoie, 1207 Genève"
+"1,865.–",45m2,3rm,"Rue Adrien-Lachenal 11, 1207 Genève"
+"2,130.–",55m2,2rm,"Route de Frontenex 10, 1207 Genève"
+"2,350.–",50m2,2.5rm,1207 Genève
+"2,390.–",51m2,3rm,"Rue du 31-Décembre 69, 1207 Genève"
+"2,410.–",59m2,3.5rm,"Rue des Vollandes 27, 1207 Genève"
+"2,435.–",56m2,3.5rm,"Rue de Soleure 6, 1207 Genève"
+"2,600.–",78m2,3.5rm,"42, route de Frontenex, 1207 Genève"
+"2,670.–",72m2,4.5rm,"Rue du 31 Décembre, 1207 Genève"
+"2,750.–",62m2,4rm,"Rue Maunoir 19, 1207 Genève"
+"2,774.–",105m2,5rm,"Rte de Frontenex 39 B, 1207 Genève"
+"2,780.–",80m2,4rm,"Rue de la Terrassière 41, 1207 Genève"
+"2,950.–",54m2,3rm,"Rue de la Mairie 6, 1207 Genève"
+"2,990.–",72m2,4rm,"Rue du Lac 5, 1207 Genève"
+"3,000.–",97m2,4rm,"50, rue du 31 Décembre, 1207 Genève"
+"3,190.–",85m2,4rm,"Rue des Vollandes 29, 1207 Genève"
+"3,190.–",85m2,4rm,"Rue des Vollandes 29, 1207 Genève"
+"3,300.–",117m2,4rm,"26, avenue de la Grenade, 1207 Genève"
+"3,400.–",80m2,4rm,"Chem. Frank-Thomas 60, 1207 Genève"
+"3,435.–",80m2,4rm,1207 Genève
+"3,700.–",60m2,3rm,1207 Genève
+"3,800.–",111m2,5.5rm,1207 Genève
+"3,890.–",135m2,6rm,"Av. Pictet-de-Rochemont, 1207 Genève"
+"4,025.–",73m2,5rm,"Rue du Nant 30, 1207 Genève"
+"4,028.–",125m2,5rm,"Rue Viollier 6, 1207 Genève"
+"4,250.–",,5rm,"Avenue Pictet-de-Rochemont 29, 1207 Genève"
+"4,500.–",100m2,4rm,1207 Genève
+"4,800.–",112m2,5rm,"Boulevard Helvétique 18, 1207 Genève"
+"4,900.–",,5rm,"Rue du 31 Décembre 52, 1207 Genève"
+"4,900.–",120m2,5rm,"Chemin Neuf 1, 1207 Genève"
+"5,590.–",110m2,6rm,1207 Genève
+"5,590.–",115m2,5rm,"Place des Eaux-Vives 19, 1207 Genève"
+"5,600.–",154m2,6rm,"Rue des Vollandes, 1207 Genève"
+"6,175.–",,5rm,"quai Gustave-Ador 54, 1207 Genève"
+"6,300.–",110m2,5rm,1207 Genève
+"7,000.–",205m2,7rm,1207 Genève
+"7,900.–",160m2,5rm,"Avenue de Frontenex 8, 1207 Genève"
+"11,000.–",200m2,,"Quai Gustave Ador, 1207 Genève"
+"13,500.–",300m2,9rm,"sur demande, 1207 Genève"
+"13,500.–",305m2,9rm,1207 Genève
+,80m2,4rm,1207 Genève
+,56m2,3rm,"Rue Zurlinden 6, 1207 Genève"
+,5m2,1rm,1207 Genève
+"1,240.–",24m2,1rm,"Route de Malagnou, 1208 Genève"
+"1,500.–",52m2,2.5rm,"Route de Malagnou 36 A, 1208 Genève"
+"1,650.–",44m2,2rm,"Avenue Théodore-Weber 34, 1208 Genève"
+"1,700.–",40m2,2rm,1208 Genève
+"1,750.–",44m2,2rm,"Pedro-Meylan, 1208 Genève"
+"1,850.–",57m2,1rm,"Av. Krieg 13, 1208 Genève"
+"1,900.–",37m2,1rm,"Le Corbusier 14, 1208 Genève"
+"2,180.–",51m2,3.5rm,"Avenue Théodore-Weber 36, 1208 Genève"
+"2,500.–",52m2,2rm,"Av. Krieg 19, 1208 Genève"
+"2,645.–",86m2,3.5rm,"Avenue Krieg 13, 1208 Genève"
+"2,700.–",95m2,3.5rm,1208 Genève
+"2,880.–",83m2,3rm,"Avenue Krieg 11, 1208 Genève"
+"2,900.–",96m2,3rm,"Av. Krieg 13, 1208 Genève"
+"3,040.–",85m2,4rm,"Rue-Gustave-Muller-Brun 3, 1208 Genève"
+"3,097.–",73m2,3rm,"Av. Krieg 11, 1208 Genève"
+"3,630.–",108m2,5rm,"Rte de Frontenex 90, 1208 Genève"
+"3,943.–",114m2,5rm,"Rte de Frontenex 88, 1208 Genève"
+"4,100.–",108m2,4rm,"Rue Gustave Muller Brun 3, 1208 Genève"
+"4,470.–",109m2,5.5rm,1208 Genève
+"5,000.–",160m2,7rm,1208 Genève
+"5,000.–",,7rm,"Rue le Corbusier, 1208 Genève"
+"5,600.–",195m2,7rm,"Route de Malagnou, 1208 Genève"
+"5,700.–",185m2,6rm,"Av. de l'Amandolier 30, 1208 Genève"
+"5,850.–",177m2,7rm,"Route de Malagnou, 1208 Genève"
+,350m2,9rm,1208 Genève
+,310m2,9rm,1208 Genève
+,111m2,4rm,"Av. Krieg 11, 1208 Genève"
+,,3rm,"Chemin Rieu 18, 1208 Genève"
+,1m2,1rm,1208 Genève
+820.–,16m2,,"Chemin Moïse-Duboule 33, 1209 Genève"
+"1,910.–",,3rm,"Avenue Blanc 34, 1209 Genève"
+"3,160.–",,4rm,1209 Genève
+"3,302.–",99m2,3rm,1209 Genève
+"3,680.–",90m2,4rm,"Ch. Adolphe Pasteur 6A, 1209 Genève"
+"4,500.–",,4rm,"Chemin Dr. Adolphe-Pasteur 6A, 1209 Genève"
+"5,950.–",145m2,5.5rm,1209 Genève
+"8,000.–",200m2,7rm,1209 Genève
+"3,335.–",88m2,4.5rm,"Chemin De La Chevillarde 44, 1208 Ginevra"
+"4,160.–",,5rm,"Avenue du Bouchet 20A, 1209 Le Grand-Saconnex"
+"1,600.–",32m2,2rm,"Rue Benjamin-Soullier 5, 1202 Genf"
+750.–,15m2,,"Promenade de l'Europe, 1203 Genf"
+900.–,,,"76 Rue Montchoisy, 1207 Genf"
