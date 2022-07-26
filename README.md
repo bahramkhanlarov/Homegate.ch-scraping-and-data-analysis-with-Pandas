@@ -9,4 +9,4 @@ In this article, I explain how you can:
 - Use the Geopandas library to convert maps which are in shapefile to Geopandas data frames and Geojson maps
 - Make interactive Choropleth maps embedded with rental data, which looks like this:
 
-[Choropleth Map](https://github.com/bkhan1820/Homegate.ch-scraping-and-data-analysis-with-Pandas/blob/76f534623a9d4cc652040843fd38d6ce3fab6d47/Photos/visualization.svg)
+![Choropleth](https://github.com/bkhan1820/Homegate.ch-scraping-and-data-analysis-with-Pandas/blob/76f534623a9d4cc652040843fd38d6ce3fab6d47/Photos/visualization.svg)
