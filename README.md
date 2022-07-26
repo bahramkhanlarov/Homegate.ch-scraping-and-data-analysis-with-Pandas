@@ -61,8 +61,7 @@ while True:
 4. We parse HTML with Beautiful Soup:
 
 ```python
-
-```python
 bs = BeautifulSoup(res.text, features='html.parser')
+```
 
 
