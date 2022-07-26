@@ -188,3 +188,12 @@ Here is `zipVsRentMean`:
 |    1207 |   41.646907 |  904.179500 |   21.860883 |  100.052632 |
 |    1208 |   36.857806 |  909.245248 |   24.852548 |   88.071429 |
 |    1209 |   37.278602 |  999.223665 |   27.183622 |  129.666667 |
+
+
+## 3. Read Shapefiles and convert them to Geopandas dataframes
+
+Next, we would like to show the results of the zip code table above on a map. To this end, we first should be able to read the maps in Python. Maps are usually available in the shapefile format *.shp. Let's first download this shapefile map, and then I discuss how you could read this in Python.
+
+Download the Switzerland's zip- code shapefiles from Swiss opendata. I have downloaded the PLZO_SHP_LV95 from here. Extract the folder, and note the address where you saved the zip-code shapefile (called PLZO_PLZ.shp) . I put it in my data folder.
+
+Okay, now you have the shapefile. How would you read/manipulate this in Python? Luckily, the Geopandas library of Python, which is a powerful library used for geospatial data processing and analysis, has a method to convert shapefiles to geopandas dataframe:
