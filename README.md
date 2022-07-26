@@ -17,6 +17,10 @@ If available, it is easier/recommended to use an API (similar to twitter, reddit
 
 This was the case for me when I wanted to study rental data in Geneva. So, I decided to develop my own web crawler to get the data for analysis (not any business purposes) from Immoscout24.ch. Below I explain this web crawler. You can find the corresponding Jupyter notebook <ins>[here](https://github.com/bkhan1820/Homegate.ch-scraping-and-data-analysis-with-Pandas/blob/Master/Homegate-Geneva%20scraping%20code.ipynb)</ins>.
 
+Homegate.ch main page looks like as below:
+
+![Homegate main page](https://github.com/bkhan1820/Homegate.ch-scraping-and-data-analysis-with-Pandas/blob/Master/Photos/Screenshot%202022-07-26%20at%2022.59.09.png)
+
 1. First step is to import necessary packages and as well as beautifulsoup and requests modules for scraping, this is how you could do it:
 
 
@@ -26,3 +30,11 @@ import requests
 import csv
 import pandas as pd
 ```
+
+2.  We define page number here for looping pagination
+
+```python
+cur_page = 1
+```
+
+3. After carefully inspecting website, realized apt rental advertisement goes in 2 categories: Premium one (paid subscription) and simple ones (without subscription) therefore create 2 empty list
