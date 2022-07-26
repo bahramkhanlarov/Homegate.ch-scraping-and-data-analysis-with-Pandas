@@ -144,3 +144,10 @@ for i in simple:
 print(f"Found {len(finish)}apartments")
 
 ```
+
+9. Saving the extracted data into pandas dataframe and write to a CSV file:
+
+```python
+df = pd.DataFrame(finish)
+df.to_csv('Geneva_listings_src.csv', index=False, encoding='utf-8')
+```
