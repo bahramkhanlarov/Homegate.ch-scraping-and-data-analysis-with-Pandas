@@ -21,7 +21,7 @@ After going to webpage <ins>[Homegate.ch](https://www.homegate.ch/)</ins> we sel
 
 ![Homegate main page](https://github.com/bkhan1820/Homegate.ch-scraping-and-data-analysis-with-Pandas/blob/Master/Photos/Screenshot%202022-07-26%20at%2022.59.09.png)
 
-The information that i want to extract is the price, size, number of rooms and the address:
+The information that i want to extract is the **price, size, number of rooms and the address**:
 
 ![Homegate main page](https://github.com/bkhan1820/Homegate.ch-scraping-and-data-analysis-with-Pandas/blob/Master/Photos/Screenshot%202022-07-26%20at%2023.08.47.png)
 
