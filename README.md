@@ -157,3 +157,13 @@ df.to_csv('Geneva_listings_src.csv', index=False, encoding='utf-8')
 ## 2. Rental-Data Analysis
 
 Once you have the rental data in the form of a Pandas dataframe you can do the usual data analysis pipeline. That is, you start by preprocessing the data (handling the missing data, outliers, etc.). For the data analysis, you can include new interesting features such as rent per room, rent per area, zip code of the apartments, etc. These are all done in <ins>[this notebook](https://github.com/bkhan1820/Homegate.ch-scraping-and-data-analysis-with-Pandas/blob/Master/Homegate_Data%20_Transformation%20&%20Data_Enrichment.ipynb)</ins>. Perhaps, the most tricky part of the data analysis pipeline for this example is spotting and handling the outliers (which are indeed mostly due to wrong inputs from the users). Here is the first 5 elements of the resulting dataframe:
+
+
+|  Price  |  Size | Rooms |              Address             |
+|:-------:|------:|------:|:--------------------------------:|
+| 4,150.– | 104m2 | 2.5rm |   Rue de l'Athénée 38, 1206 Genf |
+| 1,250.– |  26m2 |   1rm |   Rue de la Dôle 15, 1203 Genève |
+| 4,000.– |  90m2 | 2.5rm | Rue de l'Athénée 36, 1206 Genève |
+| 3,100.– |  82m2 |   4rm |         Rue Liotard, 1202 Geneva |
+| 1,580.– |   NaN | 2.5rm |         Rue de Lyon, 1201 Genève |
+
