@@ -83,3 +83,48 @@ if len(a) == 0 and len(b) == 0:
         simple.append(offer)
 ```
 
+printing results and incrementing page number by one 
+
+    print(len(premium), len(simple))
+    cur_page += 1
+
+7. Defining function block with result dic keys price,size,rooms,address and for each of them we use try except to get within span tag with mentioned class name info needed  and add them to created list:
+Defining function block with result dic keys price,size,rooms,address and for each of them we use try except to get 
+
+```python
+def extractPremiumInfo(block):
+    result = {
+        'price': None,
+        'size': None,
+        'rooms': None,
+        'address': None
+    }
+    try:
+        price = block.find('span', {'class': 'ListItemPrice_price_1o0i3'}).find_all('span')[1].text
+        result['price'] = price
+    except:
+        pass
+
+    try:
+        m2 = block.find('span', {'class': 'ListItemLivingSpace_value_2zFir'}).text
+        result['size'] = m2
+    except:
+        pass
+
+    try:
+        rn = block.find('span', {'class': 'ListItemRoomNumber_value_Hpn8O'}).text
+        result['rooms'] = rn
+    except:
+        pass
+
+    address = block.find('div', {'class': 'ListItemTopPremium_data_3i7Ca'})
+    if address is None:
+        address = block.find('div', {'class': 'ListItem_data_18_z_'})
+
+    address = address.find_all('p')[1].text
+
+    result['address'] = address
+
+    return result
+    
+    ```
