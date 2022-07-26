@@ -1,4 +1,4 @@
-# Web Scraping and Visualization of Rental Data in Switzerland with Python
+# Web Scraping and Visualization of Rental Data in Geneva (Switzerland) with Python
 
 
 In this article, I explain how you can:
