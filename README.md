@@ -58,7 +58,7 @@ while True:
     res = requests.get(link)
 ```
 
-4. We parse HTML with Beautiful Soup:
+4. We parse HTML with Beautiful Soup (I strongly suggest you to take a look at python documentation of [BeautifulSoup](https://beautiful-soup-4.readthedocs.io/en/latest/):
 
 ```python
 bs = BeautifulSoup(res.text, features='html.parser')
