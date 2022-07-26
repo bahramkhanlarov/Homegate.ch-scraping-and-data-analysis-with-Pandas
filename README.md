@@ -128,6 +128,7 @@ def extractPremiumInfo(block):
     return result
     
     ```
+    
 8. Again with for loop we go over simple and premium list and append results to fnish list:
 
 ```python
