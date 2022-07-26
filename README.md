@@ -64,12 +64,12 @@ while True:
 bs = BeautifulSoup(res.text, features='html.parser')
 ```
 
-5. We define 2 variable a for premium and b for simple annoucements and with find_all() we returns all div containers with mentioned class names that match our filters:
+5. We define 2 variables-- a for premium and b for simple annoucements and with find_all() we returns all div containers with mentioned class names that match our filters:
 
 ```python
 
 a = bs.find_all('div', {'class': 'ListItemTopPremium_item_K9dLF'})
-b = bs.find_all('div', {'class': 'ListItem_item_1GcIZ'}
+b = bs.find_all('div', {'class': 'ListItem_item_1GcIZ'})
 ```
 
 
