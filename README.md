@@ -166,3 +166,11 @@ Once you have the rental data in the form of a Pandas dataframe you can do the u
 | 4,000.– |  90m2 | 2.5rm | Rue de l'Athénée 36, 1206 Genève |
 | 3,100.– |  82m2 |   4rm | Rue Liotard, 1202 Geneva         |
 | 1,580.– |   NaN | 2.5rm | Rue de Lyon, 1201 Genève         |
+
+Let's say you are interested in rental prices distribution as a function of zip-code. Then you could use the `groupBy()` method of Pandas on the above dataframe as follows:
+
+```python
+
+zipVsRentMean = df[['ZipCode', 'RentPerArea', 'RentPerRoom', 'AreaPerRoom', 'SurfaceArea']]\
+                .groupby(['ZipCode'], as_index = False).mean()
+```
