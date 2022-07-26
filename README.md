@@ -89,7 +89,7 @@ printing results and incrementing page number by one
     cur_page += 1
 
 7. Defining function block with result dic keys price,size,rooms,address and for each of them we use try except to get within span tag with mentioned class name info needed  and add them to created list:
-Defining function block with result dic keys price,size,rooms,address and for each of them we use try except to get 
+
 
 ```python
 def extractPremiumInfo(block):
@@ -128,3 +128,17 @@ def extractPremiumInfo(block):
     return result
     
     ```
+8. Again with for loop we go over simple and premium list and append results to fnish list:
+
+```python
+finish = []
+
+for i in premium:
+    finish.append(extractPremiumInfo(i))
+
+for i in simple:
+    finish.append(extractPremiumInfo(i))
+
+print(f"Found {len(finish)}apartments")
+
+```
