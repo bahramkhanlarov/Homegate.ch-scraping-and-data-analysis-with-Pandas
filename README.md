@@ -132,6 +132,7 @@ def extractPremiumInfo(block):
 8. Again with for loop we go over simple and premium list and append results to fnish list:
 
 ```python
+
 finish = []
 
 for i in premium:
