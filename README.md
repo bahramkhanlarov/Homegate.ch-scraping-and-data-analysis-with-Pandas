@@ -161,9 +161,8 @@ Once you have the rental data in the form of a Pandas dataframe you can do the u
 
 |  Price  |  Size | Rooms |              Address             |
 |:-------:|------:|------:|:--------------------------------:|
-| 4,150.– | 104m2 | 2.5rm |   Rue de l'Athénée 38, 1206 Genf |
-| 1,250.– |  26m2 |   1rm |   Rue de la Dôle 15, 1203 Genève |
+| 4,150.– | 104m2 | 2.5rm | Rue de l'Athénée 38, 1206 Genf   |
+| 1,250.– |  26m2 |   1rm | Rue de la Dôle 15, 1203 Genève   |
 | 4,000.– |  90m2 | 2.5rm | Rue de l'Athénée 36, 1206 Genève |
-| 3,100.– |  82m2 |   4rm |         Rue Liotard, 1202 Geneva |
-| 1,580.– |   NaN | 2.5rm |         Rue de Lyon, 1201 Genève |
-
+| 3,100.– |  82m2 |   4rm | Rue Liotard, 1202 Geneva         |
+| 1,580.– |   NaN | 2.5rm | Rue de Lyon, 1201 Genève         |
