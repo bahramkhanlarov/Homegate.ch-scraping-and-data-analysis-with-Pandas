@@ -71,5 +71,15 @@ bs = BeautifulSoup(res.text, features='html.parser')
 a = bs.find_all('div', {'class': 'ListItemTopPremium_item_K9dLF'})
 b = bs.find_all('div', {'class': 'ListItem_item_1GcIZ'})
 ```
+6. If we get zero results then we break the while loop defined earlier (we have 21 pages of results) otherwise we run for loop for findings in a and b then append according to the empty list created earlier:
 
+```python
+if len(a) == 0 and len(b) == 0:
+        break
+        
+    for offer in a:
+        premium.append(offer)
+    for offer in b:
+        simple.append(offer)
+```
 
