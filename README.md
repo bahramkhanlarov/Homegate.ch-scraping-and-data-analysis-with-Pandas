@@ -41,4 +41,20 @@ import pandas as pd
 cur_page = 1
 ```
 
-3. After carefully inspecting website, realized apt rental advertisement goes in 2 categories: Premium one (paid subscription) and simple ones (without subscription) therefore create 2 empty list
+3. After carefully inspecting website, realized apt rental advertisement goes in 2 categories: Premium one (paid subscription) and simple ones (without subscription) therefore create 2 empty list and then creating function for changing page numbers and While True loop has to run until it breaks
+
+```python
+premium = []
+simple = []
+
+
+def getLink(page):
+    return f"https://www.homegate.ch/rent/apartment/city-geneva/matching-list?ep={page}"
+    
+while True:
+    print("Page ->", cur_page)
+    link = getLink(cur_page)
+    
+    res = requests.get(link)
+```
+
