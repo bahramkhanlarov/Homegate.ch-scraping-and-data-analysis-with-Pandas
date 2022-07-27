@@ -198,3 +198,9 @@ Next, we would like to show the results of the zip code table above on a map. To
 Download the Switzerland's zip- code shapefiles from <ins>[Swiss opendata](https://opendata.swiss/en/dataset/amtliches-ortschaftenverzeichnis-mit-postleitzahl-und-perimeter)</ins>. I have downloaded the PLZO_SHP_LV95 from <ins>[here](https://data.geo.admin.ch/ch.swisstopo-vd.ortschaftenverzeichnis_plz/PLZO_SHP_LV03.zip)</ins>). Extract the folder, and note the address where you saved the zip-code shapefile (called PLZO_PLZ.shp) . You can also get it <ins>[here](https://github.com/bkhan1820/Homegate.ch-scraping-and-data-analysis-with-Pandas/tree/Master/PLZO_SHP_LV03)</ins>.
 
 Okay, now you have the shapefile. How would you read/manipulate this in Python? Luckily, the Geopandas library of Python, which is a powerful library used for geospatial data processing and analysis, has a method to convert shapefiles to geopandas dataframe:
+```python
+
+import geopandas as gpd
+
+gdf = gpd.read_file('.../PLZO_SHP_LV95/PLZO_PLZ.shp')
+```
