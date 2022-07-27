@@ -235,3 +235,5 @@ gdf_gen.plot()
 Which would result in the following figure:
 
 ![photo](https://github.com/bkhan1820/Homegate.ch-scraping-and-data-analysis-with-Pandas/blob/Master/Photos/download.png)
+
+While geopandas can plot such minimal maps, I would like to have a Choropleth interactive map (where you can hover over the map see the rental results) that also looks a bit nicer than this one. To create such a map I decided to use the use the <sns>[Altair library](https://altair-viz.github.io)</sns>)
