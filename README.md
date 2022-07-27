@@ -256,6 +256,17 @@ In order for the gdf_gen data to be readable by the Altair library, we need to d
 
 ```python
 
+import altair as alt
+
+import json
+json_gen = json.loads(gdf_gen.to_json())
+alt_gen = alt.Data(values = json_gen['features'])
+
+```
+alt_gen has the data form which is readable by Altair as follows:
+
+```python
+
 alt_rentPerRoom = alt.Chart(alt_gen).mark_geoshape(
     stroke = 'white'
 ).encode(
@@ -278,3 +289,6 @@ text  = alt.Chart(alt_gen).mark_text(
 chart = alt_rentPerRoom + text
 chart
 ```
+Here is the result:
+
+![photo map](https://github.com/bkhan1820/Homegate.ch-scraping-and-data-analysis-with-Pandas/blob/Master/Photos/visualization%20(1).svg)
