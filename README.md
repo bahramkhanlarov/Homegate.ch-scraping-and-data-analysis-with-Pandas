@@ -216,3 +216,5 @@ Here is the first four elements of the geopandas dataframe gdf:
 | 3456 | {D924C540-1604-4E4A-9C30-A31E36299921} | {5DF8DDBE-8D41-42A3-8F30-F9E716E39C75} | real | nein | 1206 | 0       | POLYGON ((6.15383 46.17984, 6.15387 46.18019, ... |
 | 3485 | {F97E72AA-A260-4075-B3AE-F87FEDE38726} | {5DF8DDBE-8D41-42A3-8F30-F9E716E39C75} | real | nein | 1205 | 0       | POLYGON ((6.13394 46.20368, 6.13408 46.20308, ... |
 | 3531 | {B5EA9714-EF37-41F0-B481-F59A93221892} | {5DF8DDBE-8D41-42A3-8F30-F9E716E39C75} | real | nein | 1207 | 0       | POLYGON ((6.15741 46.20996, 6.15746 46.21001, ... |
+
+The `geometry` column defines the shape of each polygon. Since we are only looking at the data in the city of Geneva, I extract the data of Lausanne from `gdf` (note that `gdf` includes the data of the whole Switzerland):
