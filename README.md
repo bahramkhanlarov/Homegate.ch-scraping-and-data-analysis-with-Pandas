@@ -208,7 +208,7 @@ The Coordinate Reference System (CRS) in which the data is displayed can be foun
 ```python
 gdf = gdf.to_crs({'init': 'espg:4326'})
 ```
-Here is the first two elements of the geopandas dataframe gdf:
+Here is the first four elements of the geopandas dataframe gdf:
 
 | 2635 | UUID                                   | OS_UUID                                |STATUS|INAEND| PLZ  | ZUSZIFF | Geometry
 |-----:|---------------------------------------:|---------------------------------------:|-----:|-----:|-----:|--------:|--------------------------------------------------:|
