@@ -250,8 +250,10 @@ gdf_gen = gdf_gen.merge(zipVsRentMean, left_on='PLZ', right_on='ZipCode')
 This will simply add the columns of zipVsRentMean to the right of gdf_laus. Okay, now we have a geopandas dataframe gdf_laus, which includes both rental data and geographical information of Lausanne. Next, we want to visualize this on an interactive Choropleth map for which I use the Altair library.
 
 In order for the gdf_gen data to be readable by the Altair library, we need to do some preprocessing as follows:
--Altair currently can only handle geojson or topjson maps. 
--So, first we need to convert the geopandas data to appropriate data readable by altair.
+
+-Altair currently can only handle geojson or topjson maps
+-So, first we need to convert the geopandas data to appropriate data readable by altair
+
 ```python
 import altair as alt
 
