@@ -233,4 +233,5 @@ Now you can plot the zip-code map of Lausanne with the following code:
 gdf_gen.plot()
 ```
 Which would result in the following figure:
+
 ![photo](https://github.com/bkhan1820/Homegate.ch-scraping-and-data-analysis-with-Pandas/blob/Master/Photos/download.png)
