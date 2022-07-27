@@ -251,8 +251,8 @@ This will simply add the columns of zipVsRentMean to the right of gdf_laus. Okay
 
 In order for the gdf_gen data to be readable by the Altair library, we need to do some preprocessing as follows:
 
--Altair currently can only handle geojson or topjson maps
--So, first we need to convert the geopandas data to appropriate data readable by altair
+- Altair currently can only handle geojson or topjson maps
+- So, first we need to convert the geopandas data to appropriate data readable by altair
 
 ```python
 import altair as alt
