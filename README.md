@@ -242,7 +242,8 @@ While `geopandas` can plot such minimal maps, I would like to have a Choropleth 
 
 First off, let's merge the gdf_gen dataframe which only contains geographical data with zipVsRentMean Pandas dataframe which included the rental data for each zip-code in Geneva:
 
-```python
 Merge DataFrames gdf_gen and zipVsRentMean with specified left and right suffixes
+
+```python
 gdf_gen = gdf_gen.merge(zipVsRentMean, left_on='PLZ', right_on='ZipCode')
 ```
