@@ -217,4 +217,13 @@ Here is the first four elements of the geopandas dataframe gdf:
 | 3485 | {F97E72AA-A260-4075-B3AE-F87FEDE38726} | {5DF8DDBE-8D41-42A3-8F30-F9E716E39C75} | real | nein | 1205 | 0       | POLYGON ((6.13394 46.20368, 6.13408 46.20308, ... |
 | 3531 | {B5EA9714-EF37-41F0-B481-F59A93221892} | {5DF8DDBE-8D41-42A3-8F30-F9E716E39C75} | real | nein | 1207 | 0       | POLYGON ((6.15741 46.20996, 6.15746 46.21001, ... |
 
-The `geometry` column defines the shape of each polygon. Since we are only looking at the data in the city of Geneva, I extract the data of Lausanne from `gdf` (note that `gdf` includes the data of the whole Switzerland):
+The `geometry` column defines the shape of each polygon. Since we are only looking at the data in the city of Geneva, I extract the data of Geneva from `gdf` (note that `gdf` includes the data of the whole Switzerland):
+
+First I create list of zip codes i have for Geneva:
+```python
+geneva = [1200, 1201, 1202,1203,1204,1205,1206,1207,1208,1209]
+````
+Then creating geopandas frame for Geneva with zipcodes in gdf are contained in geneva list:
+```python
+gdf_gen = gdf[gdf['PLZ'].isin(geneva)]
+```
