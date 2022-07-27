@@ -237,3 +237,12 @@ Which would result in the following figure:
 ![photo](https://github.com/bkhan1820/Homegate.ch-scraping-and-data-analysis-with-Pandas/blob/Master/Photos/download.png)
 
 While `geopandas` can plot such minimal maps, I would like to have a Choropleth interactive map (where you can hover over the map see the rental results) that also looks a bit nicer than this one. To create such a map I decided to use the use the <sns>[Altair library](https://altair-viz.github.io)</sns>)
+
+## 4. Create interactive Choropleth map embedded with rental data
+
+First off, let's merge the gdf_gen dataframe which only contains geographical data with zipVsRentMean Pandas dataframe which included the rental data for each zip-code in Geneva:
+
+```python
+Merge DataFrames gdf_gen and zipVsRentMean with specified left and right suffixes
+gdf_gen = gdf_gen.merge(zipVsRentMean, left_on='PLZ', right_on='ZipCode')
+```
