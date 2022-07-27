@@ -255,9 +255,26 @@ In order for the gdf_gen data to be readable by the Altair library, we need to d
 - So, first we need to convert the geopandas data to appropriate data readable by altair
 
 ```python
-import altair as alt
 
-import json
-json_gen = json.loads(gdf_gen.to_json())
-alt_gen = alt.Data(values = json_gen['features'])
+alt_rentPerRoom = alt.Chart(alt_gen).mark_geoshape(
+    stroke = 'white'
+).encode(
+    latitude = 'properties.y:Q',
+    longitude = 'properties.x:Q',
+    color = 'properties.RentPerRoom:Q'
+).properties(
+    width = 700,
+    height = 600
+)
+
+text  = alt.Chart(alt_gen).mark_text(
+        color = 'black',
+        fontWeight = 'bold'
+).encode(
+    longitude = 'properties.x:Q',
+    latitude = 'properties.y:Q',
+    text = 'properties.ZipCode:Q',
+)
+chart = alt_rentPerRoom + text
+chart
 ```
