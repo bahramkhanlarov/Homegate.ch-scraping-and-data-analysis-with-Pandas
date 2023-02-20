@@ -263,7 +263,15 @@ json_gen = json.loads(gdf_gen.to_json())
 alt_gen = alt.Data(values = json_gen['features'])
 
 ```
-alt_gen has the data form which is readable by Altair as follows:
+alt_gen has the data form which is readable by Altair as follows,this code uses the Altair Python library to create a choropleth map that displays the average rent per room in different zip codes of a specific area.
+
+The alt_gen variable likely contains a GeoJSON file or a Pandas DataFrame with geographical data, such as the longitude and latitude of the zip code's centroid, as well as the corresponding average rent per room.
+
+The alt_rentPerRoom variable creates the choropleth map using the mark_geoshape() method and encoding the longitude and latitude on the x- and y-axis, respectively. The color encoding is set to the average rent per room for each zip code, which is represented using a color scale.
+
+The text variable adds text labels to the map, which display the zip code of each area. This is achieved by using the mark_text() method, encoding the longitude and latitude, and setting the text value to the ZipCode property.
+
+Finally, the chart variable combines the choropleth map and the text labels into a single chart using the + operator. The resulting chart should display a map with different color shades representing the average rent per room in different zip codes, with each zip code labeled with its corresponding code.
 
 ```python
 
