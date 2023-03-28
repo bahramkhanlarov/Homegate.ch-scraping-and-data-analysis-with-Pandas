@@ -1,7 +1,7 @@
 # Web Scraping and Visualization of Rental Data in Geneva(Switzerland) with Python
 
 
-This part is extracted from project "Analysis on Apartment rental prices between Switzerland and USA Markets" realized as a part my master studies in HSLU (Lucerne University of Applied Sciences) in collaboration with Aleksandra Bundovska (aleksandra.bundovska@stud.hslu.ch) and Yang Bai (yang.bai@stud.hslu.ch). 
+This part is extracted from project "Analysis on Apartment rental prices between Switzerland and USA Markets" realized as a part my master studies in HSLU.
 
 In this article, I explain how you can:
 
